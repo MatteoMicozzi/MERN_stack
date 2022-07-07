@@ -1,0 +1,19 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatteoMicozzi/MERN_stack.git"
+  },
+  "author": "Matteo Micozzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatteoMicozzi/MERN_stack/issues"
+  },
+  "homepage": "https://github.com/MatteoMicozzi/MERN_stack#readme"
+}
