@@ -5,13 +5,11 @@ This is a MERN Stack web application is made with MongoDB, Express.js, React.js 
 
 #### Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run `npm run app`.
 
-##### `npm run app`
+If any errors appears run `npm install` and then `npm run app`.
 
-If any errors appears run `npm install` and then `npm run app`
-
-Runs the app in the development mode.\
+This command runs the app in the development mode.
 Open [http://localhost:8082](http://localhost:8082) to view it in your browser.
 
-The page will reload when you make changes.\
+The page will reload when you make changes.
